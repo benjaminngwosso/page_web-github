@@ -1,0 +1,29 @@
+p{
+    color: darkslategrey;
+    text-align: justify;
+    font-family: verdana;
+    background-color: lightblue;
+}
+
+h1{
+    color: peru;
+    text-align: center;
+    font-family: cursive;
+}
+
+h2{
+    color: red;
+    text-align: left;
+    font-family: fantasy;
+}
+
+ul{
+    color: forestgreen;
+    text-align: start;
+}
+
+body{
+    background-color: aqua;
+    border-style: solid;
+    border-color: cyan;
+}
